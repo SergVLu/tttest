@@ -1,8 +1,6 @@
-#пробовал скопировать проект через SSH ключ. выдает ошибку
-#через HTTPS ссылку как в ридми2мд все закачалось
-#в вскод пробовал обновить этот файл на гитхабе. не получилось
-#через /gitTutorial->Git фиксировать в мэйн -> получилось
-#активировал github repositories VSCode
+#manson branch add
+
+##added withoun manson
 
 # addd new text for nnn-branch
 
